@@ -5,10 +5,12 @@ public class ActivityClass {
 		System.out.println("Actvity Class");
 	}
 	
-	public void activity2() {{
+	public void activity2() {
 		System.out.println("Activity 2");
 	}
-		
+	
+	public void activity3() {
+		System.out.println("Activity 3");
 	}
 
 }
